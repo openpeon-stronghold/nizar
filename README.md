@@ -6,6 +6,8 @@
 
 Nizar sound pack for [peon-ping](https://github.com/PeonPing/peon-ping) — voice lines from Nizar in Stronghold Crusader.
 
+Nizar is the enigmatic master of the Assassins, a lord who fights with shadows and patience rather than armies. Cool, calculating, and utterly self-possessed, he speaks in quiet certainties — his words carrying the implicit weight of someone who always has an alternative plan.
+
 ## Install
 
 ```bash
